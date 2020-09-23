@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/commuteesTask/static/css/main.26025c5a.chunk.css",
+    "main.js": "/commuteesTask/static/js/main.2a08b056.chunk.js",
+    "main.js.map": "/commuteesTask/static/js/main.2a08b056.chunk.js.map",
+    "runtime-main.js": "/commuteesTask/static/js/runtime-main.028f1b27.js",
+    "runtime-main.js.map": "/commuteesTask/static/js/runtime-main.028f1b27.js.map",
+    "static/js/2.9a1da22d.chunk.js": "/commuteesTask/static/js/2.9a1da22d.chunk.js",
+    "static/js/2.9a1da22d.chunk.js.map": "/commuteesTask/static/js/2.9a1da22d.chunk.js.map",
+    "index.html": "/commuteesTask/index.html",
+    "precache-manifest.a25054a78323ef174985fdd24c28a73b.js": "/commuteesTask/precache-manifest.a25054a78323ef174985fdd24c28a73b.js",
+    "service-worker.js": "/commuteesTask/service-worker.js",
+    "static/css/main.26025c5a.chunk.css.map": "/commuteesTask/static/css/main.26025c5a.chunk.css.map",
+    "static/js/2.9a1da22d.chunk.js.LICENSE.txt": "/commuteesTask/static/js/2.9a1da22d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.028f1b27.js",
+    "static/js/2.9a1da22d.chunk.js",
+    "static/css/main.26025c5a.chunk.css",
+    "static/js/main.2a08b056.chunk.js"
+  ]
+}
